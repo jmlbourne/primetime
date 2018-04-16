@@ -3,6 +3,7 @@ starting_num = 2
 finishing_num = 100
 i = starting_num
 
+#add a new comment
 while i <= finishing_num:
     j = 2
     prime_flag = True
